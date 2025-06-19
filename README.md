@@ -7,7 +7,7 @@ Welcome! This challenge helps you learn Rust by building a new mini-API every da
 ## Week 1 – Core Rust + Axum Basics
 
 - [x] **Day 1:** Hello World API (GET `/`)
-- [ ] **Day 2:** Path Parameters (GET `/hello/:name`)
+- [x] **Day 2:** Path Parameters (GET `/hello/:name`)
 - [ ] **Day 3:** Extractor: Query Params (GET `/sum?a=1&b=2`)
 - [ ] **Day 4:** Extractor: JSON Body (POST `/echo`)
 - [ ] **Day 5:** Multiple REST Methods (GET, POST, PUT, DELETE `/item`)
