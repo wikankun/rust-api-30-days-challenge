@@ -9,7 +9,7 @@ Welcome! This challenge helps you learn Rust by building a new mini-API every da
 - [x] **Day 1:** Hello World API (GET `/`)
 - [x] **Day 2:** Path Parameters (GET `/hello/:name`)
 - [x] **Day 3:** Extractor: Query Params (GET `/sum?a=1&b=2`)
-- [ ] **Day 4:** Extractor: JSON Body (POST `/echo`)
+- [x] **Day 4:** Extractor: JSON Body (POST `/echo`)
 - [ ] **Day 5:** Multiple REST Methods (GET, POST, PUT, DELETE `/item`)
 - [ ] **Day 6:** Return Different Response Types (Plain Text, JSON, Custom Status)
 - [ ] **Day 7:** Axum Router Nesting and Route Grouping
